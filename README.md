@@ -4,7 +4,7 @@ VisionSlideSegmentView
 * 可在水平方向上无限延长的分段选择器，可直接替代`UISegmentControl`使用。
 
 ### Screenshots
-None.
+![image](http://blog.viiio.com/wp-content/uploads/2016/04/visioncontrol_04.gif)
 
 ### Contents
 ## Installation 安装
